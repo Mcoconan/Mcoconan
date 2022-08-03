@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mcoconan
-- 👀 I’m interested in Python, Java, C++, C, MySQl, AWS
+- 👀 I’m interested in Python, Java, C++, C, MySQL, AWS
 - 🌱 I’m currently learning Cybersecurity
 
 
